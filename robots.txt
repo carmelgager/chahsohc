@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://asahniexe.team4work.nl/sitemap.xml
